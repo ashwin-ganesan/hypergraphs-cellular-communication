@@ -1,0 +1,12 @@
+
+The smallest value of the path loss exponent gamma such that
+U_3 is feasible is 
+gamma =  1.26312255859375
+
+The smallest value of the path loss exponent gamma such that
+U_4 is feasible is 
+gamma =  2.54412841796875
+
+The smallest value of the path loss exponent gamma such that
+U_5 is feasible is 
+gamma =  4.85784912109375
